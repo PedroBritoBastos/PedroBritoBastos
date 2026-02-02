@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <h2>📚 Estudos</h2>
+  <p>Atualmente estudando React, Node e arquitetura de software.</p>
+</div>
+
